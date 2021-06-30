@@ -1,0 +1,9 @@
+.container {
+  margin-top: 10px;
+  align-items: center;
+  flex-direction: column;
+  background-color: slategray;
+  justify-items: center;
+  padding: 5px;
+  border-radius: 10px;
+}

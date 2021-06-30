@@ -1,0 +1,6 @@
+.search-bar {
+  align-self: center;
+  width: 25%;
+  flex: 1;
+  padding-top: 4em;
+}
