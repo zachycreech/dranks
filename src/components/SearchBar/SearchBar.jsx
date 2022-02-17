@@ -52,7 +52,7 @@ export function SearchBar() {
             ></Form.Control>
             <div
               style={{
-                marginLeft: '185px',
+                marginLeft: '55px',
               }}
             >
               <Button onClick={search} title="submit" size="lg" value={value} />
